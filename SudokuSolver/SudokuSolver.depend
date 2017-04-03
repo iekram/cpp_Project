@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491127834 source:c:\users\bug\dropbox\documents\cpp project\sudokusolver\main.cpp
+	<bits/stdc++.h>
+	<vector>
+	<iostream>
+	<string>
+
